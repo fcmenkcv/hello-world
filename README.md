@@ -1,6 +1,5 @@
 # hello-world
 Just another repository
-Something new right here.
 Hi Humans!
 Something new right now.
 Look a this.
